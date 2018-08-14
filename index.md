@@ -1,4 +1,4 @@
-# Andrea Chamorro's Publications
+# Andrea Chamorro: Publications
 
 ----
 ****
