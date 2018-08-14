@@ -1,10 +1,9 @@
 # Andrea Chamorro: Publications
 
+## ||  2018  ||
+
 ----
 ****
-
-
-### ||  2018  ||
 
 #### WikifyDocs: [Addressing Ambiguity Through Definitions in API Documentation](https://drive.google.com/file/d/1oDjmzWjjGVzaJ3cu7MyzKrwxKJr-Ne88/view?usp=sharing)
 
@@ -14,6 +13,8 @@
 	
  - Application Programming Interface (API) documentation is meant to help developers understand and use the functionalities of an API. It is often assumed that developers who refer to API documentation have an inherent degree of knowledge of its terminology. However, this approach overlooks the various expertise levels that developers consulting documentation might have. Our goal is to bridge the gap between knowledge profiles of API developers and API users, by identifying potentially ambiguous vocabulary and providing contextual definitions. The presented tool is part of an overall effort to automatically improve documentation in the software engineering community.
 
+----
+****
 
 #### MindScribe: [Reflective Inquiry through Scaffolded Storytelling for Low-Income and Multilingual Early Childhood Communities](https://dl.acm.org/citation.cfm?id=3177823)
 
