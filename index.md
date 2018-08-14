@@ -18,8 +18,6 @@
 
 ##  2018  
 
-----
-****
 
 #### WikifyDocs: [Addressing Ambiguity Through Definitions in API Documentation](https://drive.google.com/file/d/1oDjmzWjjGVzaJ3cu7MyzKrwxKJr-Ne88/view?usp=sharing)
 
