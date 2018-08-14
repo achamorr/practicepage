@@ -13,6 +13,8 @@
 
 ### anch9699@colorado.edu | 970-549-0437 | [@andrea-chamorroq](https://www.linkedin.com/in/andrea-chamorroq)
 
+----
+****
 
 ##  2018  
 
